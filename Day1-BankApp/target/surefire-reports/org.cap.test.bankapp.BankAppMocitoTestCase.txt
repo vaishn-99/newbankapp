@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: org.cap.test.bankapp.BankAppMocitoTestCase
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.189 sec <<< FAILURE!
-test_AddAccount_method(org.cap.test.bankapp.BankAppMocitoTestCase)  Time elapsed: 0.069 sec  <<< ERROR!
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.193 sec <<< FAILURE!
+test_AddAccount_method(org.cap.test.bankapp.BankAppMocitoTestCase)  Time elapsed: 0.073 sec  <<< ERROR!
 java.lang.ExceptionInInitializerError
 	at org.mockito.cglib.core.KeyFactory$Generator.generateClass(KeyFactory.java:167)
 	at org.mockito.cglib.core.DefaultGeneratorStrategy.generate(DefaultGeneratorStrategy.java:25)
